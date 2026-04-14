@@ -109,7 +109,7 @@ Sempre aprendendo novas skills, focado sempre no crescimento. Projeto pessoal "[
   align="left"
   alt="Github Stats"
   height="200"
-  src="https://readme-stats-k5cgxhiml-castrotrindade2929-6518s-projects.vercel.app/api?username=brunocastro-trindade&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
+  src="https://readme-stats-k5cgxhiml-castrotrindade2929-6518s-projects.vercel.app/api?locale=pt-br&username=brunocastro-trindade&show_icons=true&include_all_commits=true&theme=tokyonight"
 />
 
 
