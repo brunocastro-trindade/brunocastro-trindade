@@ -106,12 +106,11 @@ Sempre aprendendo novas skills, focado sempre no crescimento. Projeto pessoal "[
 
 <P>
 <img
-  align= "left"
-  alt= "Github Stats"
-  height= "200"
-  style= "padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api?username=brunocastro-trindade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+  align="left"
+  alt="Github Stats"
+  height="200"
+  src="https://readme-stats-k5cgxhiml-castrotrindade2929-6518s-projects.vercel.app/api?username=brunocastro-trindade&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
+/>
 
 
 <!--
