@@ -1,7 +1,7 @@
 ## 👩‍💻 Bruno Castro
 
 **`Atualmente estudante na area da programação e gestor de trafego, apaixonado pelo TI, Computação e software.
-Sempre aprendendo novas skills, focado sempre no crescimento. Projeto pessoal "[Checkmate Gestão](https://www.instagram.com/checkmate_gestao/)"`**
+Sempre aprendendo novas skills, focado sempre no crescimento. Projeto pessoal [Checkmate Gestão](https://www.instagram.com/checkmate_gestao/)`**
 
 ## 🤖 Linguagens:
 
