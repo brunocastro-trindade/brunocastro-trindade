@@ -102,18 +102,6 @@ Sempre aprendendo novas skills, focado sempre no crescimento. Projeto pessoal "[
 <br/>
 <br/>
 
-## ✔ Stats:
-
-<P>
-<img
-  align="left"
-  alt="Github Stats"
-  height="200"
-  src="https://readme-stats-k5cgxhiml-castrotrindade2929-6518s-projects.vercel.app/api?locale=pt-br&username=brunocastro-trindade&show_icons=true&include_all_commits=true&theme=tokyonight"
-/>
-
-
-<!--
 **brunocastro-trindade/brunocastro-trindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
