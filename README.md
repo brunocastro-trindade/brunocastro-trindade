@@ -1,4 +1,3 @@
-corrija a parte dos stats se possível elas estão bugando a visualização não abrindo corretamente:
 
 # 👨‍💻 Bruno Castro
 
