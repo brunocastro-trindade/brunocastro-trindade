@@ -28,6 +28,8 @@ Tenho interesse em unir programação, marketing, dados e automação para criar
 - Excel para análise de dados
 - Git e GitHub
 - HTML, CSS e JavaScript
+- Docker para ambientes de desenvolvimento e testes
+- n8n para criação de workflows de automação
 - Estruturação de workflows com ferramentas no-code/low-code
 - Desenvolvimento de soluções voltadas para produtividade
 
@@ -43,6 +45,13 @@ Tenho interesse em unir programação, marketing, dados e automação para criar
   <img alt="CSS" title="CSS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Git" title="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+### Automação, Infraestrutura e Produtividade
+
+<p>
+  <img alt="Docker" title="Docker" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="n8n" title="n8n" height="32px" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### Design e Produtividade
@@ -70,26 +79,28 @@ Tenho interesse em unir programação, marketing, dados e automação para criar
 - Organização de código
 - Projetos práticos para portfólio
 
-### Dados e Produtividade
+### Dados, Automação e Produtividade
 
 - Excel
 - Análise de dados
 - Organização de informações
 - Estruturação de processos
 - Automatização operacional
-- Workflows com ferramentas de automação
+- Workflows com n8n
+- Ambientes locais com Docker
+- Integrações entre APIs, planilhas e ferramentas digitais
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunocastro-trindade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocastro-trindade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunocastro-trindade&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Bruno Castro" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocastro-trindade&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas por Bruno Castro" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=brunocastro-trindade&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=brunocastro-trindade&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ---
