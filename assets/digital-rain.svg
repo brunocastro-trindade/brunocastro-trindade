@@ -1,0 +1,82 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#010402"/>
+      <stop offset="0.5" stop-color="#06140A"/>
+      <stop offset="1" stop-color="#010402"/>
+    </linearGradient>
+    <linearGradient id="rain" x1="0" y1="0" x2="0" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF41" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#00FF41" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 130) rotate(90) scale(116 420)">
+      <stop stop-color="#00FF41" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="14" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="13" stroke="#00FF41" stroke-opacity="0.28"/>
+  <rect width="1200" height="260" rx="14" fill="url(#glow)"/>
+
+  <g stroke="url(#rain)" stroke-linecap="round">
+    <path d="M34 16V176" stroke-width="2"/>
+    <path d="M68 88V246" stroke-width="1"/>
+    <path d="M112 0V118" stroke-width="2"/>
+    <path d="M152 54V212" stroke-width="1"/>
+    <path d="M198 24V184" stroke-width="2"/>
+    <path d="M238 116V252" stroke-width="1"/>
+    <path d="M284 0V156" stroke-width="2"/>
+    <path d="M326 74V236" stroke-width="1"/>
+    <path d="M372 20V190" stroke-width="2"/>
+    <path d="M414 108V254" stroke-width="1"/>
+    <path d="M458 0V146" stroke-width="2"/>
+    <path d="M502 56V228" stroke-width="1"/>
+    <path d="M548 10V174" stroke-width="2"/>
+    <path d="M594 96V246" stroke-width="1"/>
+    <path d="M638 0V154" stroke-width="2"/>
+    <path d="M682 62V222" stroke-width="1"/>
+    <path d="M728 18V182" stroke-width="2"/>
+    <path d="M772 108V256" stroke-width="1"/>
+    <path d="M818 0V140" stroke-width="2"/>
+    <path d="M862 68V238" stroke-width="1"/>
+    <path d="M908 22V188" stroke-width="2"/>
+    <path d="M952 114V252" stroke-width="1"/>
+    <path d="M998 0V152" stroke-width="2"/>
+    <path d="M1042 72V232" stroke-width="1"/>
+    <path d="M1088 28V194" stroke-width="2"/>
+    <path d="M1134 102V256" stroke-width="1"/>
+    <path d="M1174 4V154" stroke-width="2"/>
+  </g>
+
+  <g fill="#00FF41" font-family="Consolas, monospace" font-size="14" opacity="0.62">
+    <text x="28" y="38">0<tspan x="28" dy="22">1</tspan><tspan x="28" dy="22">0</tspan><tspan x="28" dy="22">1</tspan><tspan x="28" dy="22">1</tspan></text>
+    <text x="106" y="18">1<tspan x="106" dy="22">0</tspan><tspan x="106" dy="22">1</tspan><tspan x="106" dy="22">0</tspan></text>
+    <text x="192" y="48">0<tspan x="192" dy="22">1</tspan><tspan x="192" dy="22">1</tspan><tspan x="192" dy="22">0</tspan><tspan x="192" dy="22">1</tspan></text>
+    <text x="278" y="24">1<tspan x="278" dy="22">1</tspan><tspan x="278" dy="22">0</tspan><tspan x="278" dy="22">1</tspan></text>
+    <text x="366" y="44">0<tspan x="366" dy="22">1</tspan><tspan x="366" dy="22">0</tspan><tspan x="366" dy="22">0</tspan><tspan x="366" dy="22">1</tspan></text>
+    <text x="452" y="20">1<tspan x="452" dy="22">0</tspan><tspan x="452" dy="22">1</tspan><tspan x="452" dy="22">1</tspan></text>
+    <text x="542" y="40">0<tspan x="542" dy="22">1</tspan><tspan x="542" dy="22">0</tspan><tspan x="542" dy="22">1</tspan><tspan x="542" dy="22">0</tspan></text>
+    <text x="632" y="18">1<tspan x="632" dy="22">1</tspan><tspan x="632" dy="22">0</tspan><tspan x="632" dy="22">0</tspan></text>
+    <text x="722" y="42">0<tspan x="722" dy="22">1</tspan><tspan x="722" dy="22">1</tspan><tspan x="722" dy="22">0</tspan><tspan x="722" dy="22">1</tspan></text>
+    <text x="812" y="20">1<tspan x="812" dy="22">0</tspan><tspan x="812" dy="22">1</tspan><tspan x="812" dy="22">0</tspan></text>
+    <text x="902" y="46">0<tspan x="902" dy="22">0</tspan><tspan x="902" dy="22">1</tspan><tspan x="902" dy="22">1</tspan><tspan x="902" dy="22">0</tspan></text>
+    <text x="992" y="18">1<tspan x="992" dy="22">0</tspan><tspan x="992" dy="22">1</tspan><tspan x="992" dy="22">1</tspan></text>
+    <text x="1082" y="50">0<tspan x="1082" dy="22">1</tspan><tspan x="1082" dy="22">0</tspan><tspan x="1082" dy="22">1</tspan><tspan x="1082" dy="22">1</tspan></text>
+    <text x="1168" y="24">1<tspan x="1168" dy="22">0</tspan><tspan x="1168" dy="22">0</tspan><tspan x="1168" dy="22">1</tspan></text>
+  </g>
+
+  <g fill="#00FF41" filter="url(#softGlow)" opacity="0.42">
+    <circle cx="34" cy="172" r="3"/>
+    <circle cx="198" cy="180" r="3"/>
+    <circle cx="372" cy="186" r="3"/>
+    <circle cx="548" cy="170" r="3"/>
+    <circle cx="728" cy="178" r="3"/>
+    <circle cx="908" cy="184" r="3"/>
+    <circle cx="1088" cy="190" r="3"/>
+  </g>
+</svg>
