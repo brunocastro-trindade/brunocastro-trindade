@@ -1,127 +1,107 @@
-<h1 align="center">👨‍💻 Bruno Castro</h1>
+<h1 align="center">Bruno Castro</h1>
 
 <p align="center">
-  <strong>Estudante de Programação | Python | Automação | Gestão de Tráfego | Tecnologia e Dados</strong>
-</p>
-
-<p align="center">
-  Apaixonado por tecnologia, desenvolvimento de software, automação de processos e soluções orientadas por dados.
-</p>
-
----
-
-## 🚀 Sobre mim
-
-Atualmente estou em evolução contínua na área de desenvolvimento, automação e análise de dados, construindo projetos práticos para fortalecer lógica de programação, organização de código e aplicação real de tecnologia em processos de produtividade.
-
-Tenho interesse em unir programação, marketing, dados e automação para criar soluções úteis, escaláveis e aplicáveis em negócios reais.
-
----
-
-## 🧠 Em aprendizado contínuo
-
-- Python aplicado a projetos práticos
-- Lógica de programação e resolução de problemas
-- Funções, validações e tratamento de erros
-- Automação de processos
-- Manipulação e organização de dados
-- Excel para análise de dados
-- Git e GitHub
-- HTML, CSS e JavaScript
-- Docker para ambientes de desenvolvimento e testes
-- n8n para criação de workflows de automação
-- Estruturação de workflows com ferramentas no-code/low-code
-- Desenvolvimento de soluções voltadas para produtividade
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-### Linguagens e Desenvolvimento
-
-<p>
-  <img alt="Python" title="Python" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="HTML" title="HTML" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Git" title="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
-
-### Automação, Infraestrutura e Produtividade
-
-<p>
-  <img alt="Docker" title="Docker" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="n8n" title="n8n" height="32px" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
-### Design e Produtividade
-
-<p>
-  <img alt="Canva" title="Canva" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img alt="Figma" title="Figma" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img alt="Inkscape" title="Inkscape" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
-  <img alt="Photoshop" title="Photoshop" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-</p>
-
----
-
-## ⚙️ Foco atual
-
-### Python e Automação
-
-- Desenvolvimento com Python
-- Validação de dados
-- Estruturas condicionais
-- Manipulação de strings
-- Tratamento de exceções
-- Modularização com funções
-- Automação de tarefas
-- Organização de código
-- Projetos práticos para portfólio
-
-### Dados, Automação e Produtividade
-
-- Excel
-- Análise de dados
-- Organização de informações
-- Estruturação de processos
-- Automatização operacional
-- Workflows com n8n
-- Ambientes locais com Docker
-- Integrações entre APIs, planilhas e ferramentas digitais
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunocastro-trindade&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Bruno Castro" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocastro-trindade&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas por Bruno Castro" />
+  <strong>Python • Automação • Dados • Produtividade</strong>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=brunocastro-trindade&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+  Transformando aprendizado em soluções práticas para negócios e rotina.
 </p>
 
----
-
-## 🚀 Projeto Pessoal
-
-### 📌 Checkmate Gestão
-
-Projeto voltado para gestão, marketing e desenvolvimento de soluções digitais com foco em produtividade, estratégia e automação.
-
-<p>
-  <a href="https://www.instagram.com/checkmate_gestao/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Checkmate%20Gest%C3%A3o-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Checkmate Gestão" />
+<p align="center">
+  <a href="https://github.com/brunocastro-trindade">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Bruno Castro no GitHub" />
+  </a>
+  <a href="https://www.instagram.com/checkmate_gestao/">
+    <img src="https://img.shields.io/badge/Instagram-Checkmate_Gestao-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Checkmate Gestão" />
   </a>
 </p>
 
 ---
 
-## 📌 Objetivo
+## 👋 Sobre mim
 
-Construir uma base sólida em tecnologia, criando projetos que demonstrem evolução prática em programação, automação, dados e desenvolvimento de soluções aplicáveis ao mercado.
+Sou estudante de programação com interesse em unir **tecnologia, automação, marketing e dados** para resolver problemas reais.
+
+Atualmente estou construindo uma base sólida em desenvolvimento e criando projetos práticos para evoluir em lógica de programação, organização de código e produtividade.
+
+---
+
+## 🧰 Tecnologias e ferramentas
+
+### Desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
+
+### Automação e produtividade
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
+  <img src="https://img.shields.io/badge/Inkscape-0D1117?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" />
+  <img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+</p>
+
+---
+
+## 🎯 Em foco agora
+
+| Aprendendo | Construindo | Explorando |
+| --- | --- | --- |
+| Python e boas práticas | Projetos para portfólio | Integrações entre APIs |
+| Validação e tratamento de erros | Automatizações úteis | Workflows com n8n |
+| Organização e modularização | Soluções para produtividade | Ambientes com Docker |
+| Manipulação de dados | Processos aplicáveis a negócios | HTML, CSS e JavaScript |
+
+---
+
+## 🚀 Projeto em destaque
+
+### 📌 Checkmate Gestão
+
+Projeto pessoal voltado para gestão, marketing e desenvolvimento de soluções digitais com foco em produtividade, estratégia e automação.
+
+<p>
+  <a href="https://www.instagram.com/checkmate_gestao/">
+    <img src="https://img.shields.io/badge/Conheca_a_Checkmate_Gestao-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Conheça a Checkmate Gestão no Instagram" />
+  </a>
+</p>
+
+---
+
+## 📍 Atividade no GitHub
+
+Os cartões automáticos foram substituídos por atalhos nativos para manter este perfil leve, confiável e sempre acessível.
+
+<p align="center">
+  <a href="https://github.com/brunocastro-trindade">
+    <img src="https://img.shields.io/badge/Ver_atividade-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver atividade de Bruno Castro no GitHub" />
+  </a>
+  <a href="https://github.com/brunocastro-trindade?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar_repositorios-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios de Bruno Castro" />
+  </a>
+</p>
+
+---
+
+## 🧭 Objetivo
+
+Construir projetos que demonstrem evolução prática em programação, automação e dados, criando soluções úteis e aplicáveis ao mercado.
 
 <p align="center">
   <strong>Em constante aprendizado, um projeto por vez.</strong>
