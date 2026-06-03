@@ -61,6 +61,21 @@ Atualmente estou direcionando meus estudos para **análise de dados** e **inteli
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/brunocastro-trindade?style=for-the-badge&label=Seguidores&color=00FF41&labelColor=07150A&logo=github&logoColor=00FF41" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/brunocastro-trindade?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&color=00FF41&labelColor=07150A&logo=github&logoColor=00FF41" alt="Stars recebidas no GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=brunocastro-trindade&style=for-the-badge&color=00FF41&label=VISITAS" alt="Visualizações do perfil" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brunocastro-trindade&theme=github_dark" alt="Estatísticas do GitHub de Bruno Castro" />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunocastro-trindade&theme=github_dark" alt="Linguagens mais usadas por Bruno Castro" />
+</p>
+
+---
+
 ## Foco atual
 
 | Formação | Desenvolvimento | Estudos |
