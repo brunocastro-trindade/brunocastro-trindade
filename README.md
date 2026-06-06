@@ -5,7 +5,7 @@
 <h1 align="center">Bruno Castro</h1>
 
 <p align="center">
-  <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>
+  <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas.</strong>
 </p>
 
 <p align="center">
